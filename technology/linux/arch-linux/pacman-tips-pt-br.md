@@ -1,8 +1,8 @@
 ---
-description: Comandos do pacman
+description: Dicas do pacman
 ---
 
-# Pacman - pt-BR
+# Pacman tips - pt-BR
 
 Lista os pacotes órfãos
 
