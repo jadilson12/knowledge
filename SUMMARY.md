@@ -6,7 +6,8 @@
 
 * [CI/CD](technology/ci-cd.md)
 * [Docker](technology/docker.md)
-* [Git](technology/git.md)
+* [Git](technology/git/README.md)
+  * [Git Tips - pt-BR](technology/git/git-tips-pt-br.md)
 * [JavaScript](technology/javascript.md)
 * [Linux](technology/linux/README.md)
   * [Arch linux](technology/linux/arch-linux/README.md)
