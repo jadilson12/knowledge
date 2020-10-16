@@ -1,0 +1,2 @@
+# Pacman Tips - pt-BR
+

@@ -2,14 +2,12 @@
 
 * [Home](README.md)
 
-## Tecnologias <a id="linux"></a>
+## Tecnologias <a id="technology"></a>
 
----
-
-* [Linux](linux-2/README.md)
-  * [Arch linux](linux-2/arch-linux/README.md)
-    * [Pacman Tips - pt-BR](linux-2/arch-linux/pacman-tips-pt-br.md)
-  * [Shell Script](linux-2/shell-script.md)
-* [Visual Studio Code](visual-studio-code/README.md)
-  * [All VS Code shortcuts pt-BR](visual-studio-code/code-shortcuts.md)
+* [Linux](technology/linux/README.md)
+  * [Arch linux](technology/linux/arch-linux/README.md)
+    * [Pacman Tips - pt-BR](technology/linux/arch-linux/pacman-tips-pt-br.md)
+  * [Shell Script](technology/linux/shell-script.md)
+* [Visual Studio Code](technology/visual-studio-code/README.md)
+  * [All VS Code shortcuts pt-BR](technology/visual-studio-code/code-shortcuts.md)
 
