@@ -5,7 +5,8 @@
 ## Tecnologias <a id="technology"></a>
 
 * [CI/CD](technology/ci-cd.md)
-* [Docker](technology/docker.md)
+* [Docker](technology/docker/README.md)
+  * [How to Do a Clean Restart of a Docker Instance](technology/docker/how-to-do-a-clean-restart-of-a-docker-instance.md)
 * [Git](technology/git/README.md)
   * [Git Tips - pt-BR](technology/git/git-tips-pt-br.md)
 * [JavaScript](technology/javascript.md)
