@@ -187,7 +187,8 @@ git rm -r diretorio
 git log
 ```
 
-**Listar por arquivos alterados, adicionando e excluídos **
+**Listar por arquivos alterados, adicionando e excluídos**
+
 ```text
 git log --name-status --pretty= --oneline --after='2021-07-01 00:00:00' | grep -E '^[A-Z]\b' | sort | uniq
 ```
