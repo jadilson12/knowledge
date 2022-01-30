@@ -8,6 +8,7 @@
 * [Docker](technology/docker/README.md)
   * [How to Do a Clean Restart of a Docker Instance](technology/docker/how-to-do-a-clean-restart-of-a-docker-instance.md)
 * [Git](technology/git/README.md)
+  * [Meu gitconfig](technology/git/meu-gitconfig.md)
   * [Git Tips - pt-BR](technology/git/git-tips-pt-br.md)
 * [JavaScript](technology/javascript/README.md)
   * [Styles Guide](technology/javascript/styles-guide.md)
