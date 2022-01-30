@@ -17,5 +17,6 @@
     * [Pacman tips - pt-BR](technology/linux/arch-linux/pacman-tips-pt-br.md)
   * [Shell Scripts](technology/linux/shell-script.md)
 * [Visual Studio Code](technology/visual-studio-code/README.md)
+  * [Todos os atalhos do VS Code! pt-br](technology/visual-studio-code/todos-os-atalhos-do-vs-code-pt-br.md)
   * [Recommended settings](technology/visual-studio-code/recommended-settings.md)
   * [All VS Code shortcuts pt-BR](technology/visual-studio-code/code-shortcuts.md)
