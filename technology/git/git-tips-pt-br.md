@@ -187,12 +187,6 @@ git rm -r diretorio
 git log
 ```
 
-**Listar por arquivos alterados, adicionando e excluídos**
-
-```text
-git log --name-status --pretty= --oneline --after='2021-07-01 00:00:00' | grep -E '^[A-Z]\b' | sort | uniq
-```
-
 **Exibir histórico com diff das duas últimas alterações**
 
 ```text
@@ -250,6 +244,23 @@ git log --diff-filter=M -- <caminho_do_arquivo>
 git log --author=usuario
 ```
 
+**Listar por arquivos por tipo**
+
+```text
+git log --name-status --pretty= --oneline --after='2021-07-01 00:00:00' \
+     | grep -E '^[A-Z]\b' \
+     | sort \ 
+     | uniq
+```
+
+**Listar por arquivos alterados, adicionando e excluídos**
+
+```text
+git log --shortstat --after='2021-07-01 00:00:00' \
+    | grep "files changed" \
+    | awk '{files+=$1; inserted+=$4; deleted+=$6} END {print "files changed", files, "lines inserted:", inserted, "lines deleted:", deleted}'
+
+```
 **Mostar historico arquivo**
 
 ```text
