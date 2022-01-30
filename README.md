@@ -4,5 +4,3 @@
 
 The focus of this space is to share knowledge and help others.
 
-
-
