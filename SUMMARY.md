@@ -12,6 +12,8 @@
 * [JavaScript](technology/javascript/README.md)
   * [Styles Guide](technology/javascript/styles-guide.md)
 * [Linux](technology/linux/README.md)
+  * [Dicas do YAY](technology/linux/dicas-do-yay.md)
+  * [Dicas do Pacman](technology/linux/dicas-do-pacman.md)
   * [Arch linux](technology/linux/arch-linux/README.md)
     * [Yay tips - pt-BR](technology/linux/arch-linux/yay-tips-pt-br.md)
     * [Pacman tips - pt-BR](technology/linux/arch-linux/pacman-tips-pt-br.md)
